@@ -1,5 +1,6 @@
 {
     "name": "emware/q-dumper",
+    "version": "0.1.0",
     "require": {
         "symfony/var-dumper": "^3.3"
     }

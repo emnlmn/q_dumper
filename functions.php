@@ -1,7 +1,5 @@
 <?php
 
-namespace EMW\Dumper;
-
 require __DIR__ . '/vendor/autoload.php';
 
 function _q( ...$args ) {
