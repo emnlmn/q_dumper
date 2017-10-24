@@ -1,8 +1,8 @@
 <?php
 
-namespace QDM;
+namespace EMW\Dumper;
 
-require __DIR__.'/vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 function _q( ...$args ) {
 	$backtrace = debug_backtrace();
