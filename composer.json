@@ -1,5 +1,5 @@
 {
-    "name": "emware/hello-world",
+    "name": "emware/q-dumper",
     "require": {
         "symfony/var-dumper": "^3.3"
     }
